@@ -1,0 +1,12 @@
+# Ensure .nvmrc uses LF line endings
+.nvmrc text eol=lf
+
+# Ensure other text files use LF
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+
