@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+
+# Local development files (optional - exclude these)
+start-dev.bat
+start-server.bat
+SIMPLE_START.bat
+test-server.js
+
+# Documentation files (optional - you can include these if you want)
+# Uncomment the lines below if you want to exclude documentation
+# *.md
+# !README.md
